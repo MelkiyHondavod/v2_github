@@ -1,0 +1,19 @@
+{
+    "fallbackType": "select",
+    "valueFormat": "range",
+    "id": 7,
+    "name": "year",
+    "nested": [],
+    "label": "Год",
+    "disabled": false,
+    "options": [
+        "..."
+    ],
+    "constraints": [],
+    "visible": true,
+    "metadata": {
+        "saved_filter_from_range_label": "с",
+        "saved_filter_to_range_label": "по"
+    },
+    "hasRelations": false
+} 

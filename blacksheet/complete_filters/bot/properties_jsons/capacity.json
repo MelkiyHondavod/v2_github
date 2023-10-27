@@ -1,0 +1,16 @@
+{
+    "fallbackType": "select",
+    "valueFormat": "range",
+    "id": 12,
+    "name": "engine_capacity",
+    "nested": [],
+    "label": "Объём",
+    "disabled": false,
+    "options": [
+        "..."
+    ],
+    "constraints": [],
+    "visible": true,
+    "metadata": [],
+    "hasRelations": false
+}

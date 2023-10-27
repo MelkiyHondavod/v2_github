@@ -1,0 +1,1 @@
+print( '.'.join( "start.new_search.78.83.84.7.min.1.0".split('.')[:-1:] ) )

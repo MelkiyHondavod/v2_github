@@ -1,0 +1,17 @@
+{
+    "fallbackType": "select",
+    "valueFormat": "value",
+    "id": 13,
+    "name": "transmission_type",
+    "nested": [],
+    "label": "Коробка передач",
+    "disabled": false,
+    "options": [
+        "..."
+    ],
+    "constraints": [],
+    "visible": true,
+    "metadata": [],
+    "hasRelations": false,
+    "widget": "inline_select"
+}

@@ -1,0 +1,940 @@
+{
+    "id": 100477640,
+    "originalDaysOnSale": 287,
+    "advertType": "cars",
+    "status": "active",
+    "publicStatus": {
+        "label": "\u0410\u043a\u0442\u0438\u0432\u043d\u043e\u0435",
+        "name": "active"
+    },
+    "price": {
+        "usd": {
+            "currency": "usd",
+            "amount": 1999,
+            "amountFiat": 1999.0
+        },
+        "byn": {
+            "currency": "byn",
+            "amount": 6060,
+            "amountFiat": 6059.97
+        },
+        "rub": {
+            "currency": "rub",
+            "amount": 173937,
+            "amountFiat": 173937.1
+        },
+        "eur": {
+            "currency": "eur",
+            "amount": 1831,
+            "amountFiat": 1830.92
+        }
+    },
+    "description": "\u0422\u0430\u0447\u043a\u0430 \u0432\u044b\u0432a\u0440\u0435\u043d\u0430 \u043a\u0443\u0437\u043e\u0432 \u043a\u0440\u0435\u043f\u043a\u0438\u0439 \u043b\u0430\u043d\u0436\u0438 \u0446\u0435\u043b\u044b\u0435 \u0434\u043d\u0438\u0449\u0435 \u0432 \u0430\u043d\u0442\u0438\u043a\u043e\u0440\u0435.\n\u0420\u0430\u0441\u043f\u043e\u0440\u043a\u0438 \u043f\u0435\u0440\u0435\u0434 \u0437\u0430\u0434\n\u0421\u0432\u0430\u043f \u0437\u0430\u0434\u043d\u0435\u0439 \u0431\u0430\u043b\u043a\u0438 \u043d\u0430 \u0448\u0438\u0440\u043e\u043a\u043e\u043c \u0440\u0435\u0434\u0443\u043a\u0442\u043e\u0440\u0435 !\u041f\u0435\u0440\u0435\u043f\u0440\u0435\u0441\u043e\u0432\u0430\u043d\u043d\u044b \u0432\u0441\u0435 \u0441\u0430\u0439\u043b\u0435\u043d\u0442\u0431\u043b\u043e\u043a\u0438 \u043f\u043e \u043f\u0435\u0440\u0435\u0434\u043d\u0435\u0439 \u0437\u0430\u0434\u043d\u0435\u0439 \u043f\u043e\u0434\u0432\u0435\u0441\u043a\u0435 \u0434\u0438\u0441\u043a\u043e\u0432\u044b\u0435 \u0442\u043e\u0440\u043c\u043e\u0437\u0430 \u043f\u043e \u043a\u0440\u0443\u0433\u0443 \u043d\u043e\u0432\u044b\u0435 +\u043a\u043e\u043b\u043e\u0434\u043a\u0438!\n\u0421\u0442\u043e\u044f\u043b Jz gte \u043f\u0435\u0440\u0435\u043d\u043e\u0441 \u0442\u043e\u0440\u043c\u043e\u0437\u043d\u043e\u0433\u043e \u0432\u0430\u043a\u0443\u0443\u043c\u043d\u0438\u043a\u0430, \u043f\u043e\u0434\u043a\u0430\u043f\u043e\u0442\u043a\u0430 \u043e\u043a\u0440\u0430\u0448\u0435\u043d\u043d\u0430 \n\u041e\u0442\u043b\u0438\u0447\u043d\u043e \u043f\u043e\u0434\u043e\u0439\u0434\u0435\u0442 \u043f\u043e\u0434 \u0441\u0432\u0430\u043f V8 , \u043e\u0431\u0441\u0443\u0436\u0434\u0430\u0435\u043c\u043e \u0432\u0435\u0440\u043d\u0443\u0442\u044c \u0441\u0432\u0430\u043f JZ \u043e\u0431\u0440\u0430\u0442\u043d\u043e\n\u041a\u0430\u0439\u043b\u043e\u0432\u0435\u0440\u044b Full Tap  D1 4 \u0441\u0442\u043e\u0439\u043a\u0438\ud83d\udcaa\ud83c\udfff\n\u0414\u0438\u0441\u043a\u0438 Barbet + 2\u043d\u043e\u0432\u044b\u0445 West Lake \u0438\u043b\u0438 \u043d\u0430 18 Barbet+150\n\u0421\u0430\u043b\u043e\u043d \u043a\u0430\u0436\u0430\u043d \u043d\u0430 \u043a\u043e\u043c\u043f\u0435,\u043d\u0430 \u0440\u0443\u043b\u0435, \u043d\u0430 \u0441\u0442\u0435\u043a\u043b\u043e\u043f\u043e\u0434\u044a\u0451\u043c\u043d\u0438\u043a\u0430\u0445\n\u0414\u043e\u0441\u0442\u0430\u0432\u043b\u044e!!!",
+    "exchange": {
+        "type": "any",
+        "label": "\u0412\u043e\u0437\u043c\u043e\u0436\u0435\u043d \u043e\u0431\u043c\u0435\u043d",
+        "comment": "",
+        "exchangeAllowed": "allowed"
+    },
+    "version": 15,
+    "publishedAt": "2022-09-18T11:32:21+0000",
+    "refreshedAt": "2022-09-18T11:32:21+0000",
+    "indexPromo": false,
+    "top": false,
+    "highlight": false,
+    "financeAdvertMinMonthlyPayment": {
+        "productId": 81,
+        "minPrice": 116,
+        "types": [
+            "credit"
+        ],
+        "currency": "byn"
+    },
+    "photos": [
+        {
+            "id": 216441827,
+            "main": true,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1400,
+                "height": 787,
+                "url": "https://avcdn.av.by/advertbig/0002/1644/1828.jpg"
+            },
+            "medium": {
+                "width": 612,
+                "height": 344,
+                "url": "https://avcdn.av.by/advertmedium/0002/1644/1829.jpg"
+            },
+            "small": {
+                "width": 359,
+                "height": 202,
+                "url": "https://avcdn.av.by/advertpreview/0002/1644/1830.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 113,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1644/1831.jpg"
+            }
+        },
+        {
+            "id": 215674323,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1400,
+                "height": 787,
+                "url": "https://avcdn.av.by/advertbig/0002/1567/4324.jpg"
+            },
+            "medium": {
+                "width": 612,
+                "height": 344,
+                "url": "https://avcdn.av.by/advertmedium/0002/1567/4325.jpg"
+            },
+            "small": {
+                "width": 359,
+                "height": 202,
+                "url": "https://avcdn.av.by/advertpreview/0002/1567/4326.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 113,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1567/4327.jpg"
+            }
+        },
+        {
+            "id": 215284507,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1400,
+                "height": 787,
+                "url": "https://avcdn.av.by/advertbig/0002/1528/4508.jpg"
+            },
+            "medium": {
+                "width": 612,
+                "height": 344,
+                "url": "https://avcdn.av.by/advertmedium/0002/1528/4509.jpg"
+            },
+            "small": {
+                "width": 359,
+                "height": 202,
+                "url": "https://avcdn.av.by/advertpreview/0002/1528/4510.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 113,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1528/4511.jpg"
+            }
+        },
+        {
+            "id": 125604907,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 960,
+                "height": 1280,
+                "url": "https://avcdn.av.by/advertbig/0001/2560/4908.jpg"
+            },
+            "medium": {
+                "width": 459,
+                "height": 612,
+                "url": "https://avcdn.av.by/advertmedium/0001/2560/4909.jpg"
+            },
+            "small": {
+                "width": 270,
+                "height": 360,
+                "url": "https://avcdn.av.by/advertpreview/0001/2560/4910.jpg"
+            },
+            "extrasmall": {
+                "width": 150,
+                "height": 200,
+                "url": "https://avcdn.av.by/advertextrasmall/0001/2560/4911.jpg"
+            }
+        },
+        {
+            "id": 125604917,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 960,
+                "height": 1280,
+                "url": "https://avcdn.av.by/advertbig/0001/2560/4918.jpg"
+            },
+            "medium": {
+                "width": 459,
+                "height": 612,
+                "url": "https://avcdn.av.by/advertmedium/0001/2560/4919.jpg"
+            },
+            "small": {
+                "width": 270,
+                "height": 360,
+                "url": "https://avcdn.av.by/advertpreview/0001/2560/4920.jpg"
+            },
+            "extrasmall": {
+                "width": 150,
+                "height": 200,
+                "url": "https://avcdn.av.by/advertextrasmall/0001/2560/4921.jpg"
+            }
+        },
+        {
+            "id": 125604912,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 960,
+                "height": 1280,
+                "url": "https://avcdn.av.by/advertbig/0001/2560/4913.jpg"
+            },
+            "medium": {
+                "width": 459,
+                "height": 612,
+                "url": "https://avcdn.av.by/advertmedium/0001/2560/4914.jpg"
+            },
+            "small": {
+                "width": 270,
+                "height": 360,
+                "url": "https://avcdn.av.by/advertpreview/0001/2560/4915.jpg"
+            },
+            "extrasmall": {
+                "width": 150,
+                "height": 200,
+                "url": "https://avcdn.av.by/advertextrasmall/0001/2560/4916.jpg"
+            }
+        },
+        {
+            "id": 125604922,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 960,
+                "height": 1280,
+                "url": "https://avcdn.av.by/advertbig/0001/2560/4923.jpg"
+            },
+            "medium": {
+                "width": 459,
+                "height": 612,
+                "url": "https://avcdn.av.by/advertmedium/0001/2560/4924.jpg"
+            },
+            "small": {
+                "width": 270,
+                "height": 360,
+                "url": "https://avcdn.av.by/advertpreview/0001/2560/4925.jpg"
+            },
+            "extrasmall": {
+                "width": 150,
+                "height": 200,
+                "url": "https://avcdn.av.by/advertextrasmall/0001/2560/4926.jpg"
+            }
+        },
+        {
+            "id": 125604902,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 960,
+                "height": 1280,
+                "url": "https://avcdn.av.by/advertbig/0001/2560/4903.jpg"
+            },
+            "medium": {
+                "width": 459,
+                "height": 612,
+                "url": "https://avcdn.av.by/advertmedium/0001/2560/4904.jpg"
+            },
+            "small": {
+                "width": 270,
+                "height": 360,
+                "url": "https://avcdn.av.by/advertpreview/0001/2560/4905.jpg"
+            },
+            "extrasmall": {
+                "width": 150,
+                "height": 200,
+                "url": "https://avcdn.av.by/advertextrasmall/0001/2560/4906.jpg"
+            }
+        },
+        {
+            "id": 125604937,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 787,
+                "height": 1400,
+                "url": "https://avcdn.av.by/advertbig/0001/2560/4938.jpg"
+            },
+            "medium": {
+                "width": 344,
+                "height": 612,
+                "url": "https://avcdn.av.by/advertmedium/0001/2560/4939.jpg"
+            },
+            "small": {
+                "width": 202,
+                "height": 360,
+                "url": "https://avcdn.av.by/advertpreview/0001/2560/4940.jpg"
+            },
+            "extrasmall": {
+                "width": 112,
+                "height": 200,
+                "url": "https://avcdn.av.by/advertextrasmall/0001/2560/4941.jpg"
+            }
+        },
+        {
+            "id": 125604972,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 787,
+                "height": 1400,
+                "url": "https://avcdn.av.by/advertbig/0001/2560/4973.jpg"
+            },
+            "medium": {
+                "width": 344,
+                "height": 612,
+                "url": "https://avcdn.av.by/advertmedium/0001/2560/4974.jpg"
+            },
+            "small": {
+                "width": 202,
+                "height": 360,
+                "url": "https://avcdn.av.by/advertpreview/0001/2560/4975.jpg"
+            },
+            "extrasmall": {
+                "width": 112,
+                "height": 200,
+                "url": "https://avcdn.av.by/advertextrasmall/0001/2560/4976.jpg"
+            }
+        },
+        {
+            "id": 125604892,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1080,
+                "height": 1021,
+                "url": "https://avcdn.av.by/advertbig/0001/2560/4893.jpg"
+            },
+            "medium": {
+                "width": 612,
+                "height": 579,
+                "url": "https://avcdn.av.by/advertmedium/0001/2560/4894.jpg"
+            },
+            "small": {
+                "width": 360,
+                "height": 341,
+                "url": "https://avcdn.av.by/advertpreview/0001/2560/4895.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 189,
+                "url": "https://avcdn.av.by/advertextrasmall/0001/2560/4896.jpg"
+            }
+        },
+        {
+            "id": 125604897,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1048,
+                "height": 1400,
+                "url": "https://avcdn.av.by/advertbig/0001/2560/4898.jpg"
+            },
+            "medium": {
+                "width": 458,
+                "height": 612,
+                "url": "https://avcdn.av.by/advertmedium/0001/2560/4899.jpg"
+            },
+            "small": {
+                "width": 269,
+                "height": 360,
+                "url": "https://avcdn.av.by/advertpreview/0001/2560/4900.jpg"
+            },
+            "extrasmall": {
+                "width": 149,
+                "height": 200,
+                "url": "https://avcdn.av.by/advertextrasmall/0001/2560/4901.jpg"
+            }
+        },
+        {
+            "id": 125604927,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 960,
+                "height": 1280,
+                "url": "https://avcdn.av.by/advertbig/0001/2560/4928.jpg"
+            },
+            "medium": {
+                "width": 459,
+                "height": 612,
+                "url": "https://avcdn.av.by/advertmedium/0001/2560/4929.jpg"
+            },
+            "small": {
+                "width": 270,
+                "height": 360,
+                "url": "https://avcdn.av.by/advertpreview/0001/2560/4930.jpg"
+            },
+            "extrasmall": {
+                "width": 150,
+                "height": 200,
+                "url": "https://avcdn.av.by/advertextrasmall/0001/2560/4931.jpg"
+            }
+        },
+        {
+            "id": 125604932,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 960,
+                "height": 1280,
+                "url": "https://avcdn.av.by/advertbig/0001/2560/4933.jpg"
+            },
+            "medium": {
+                "width": 459,
+                "height": 612,
+                "url": "https://avcdn.av.by/advertmedium/0001/2560/4934.jpg"
+            },
+            "small": {
+                "width": 270,
+                "height": 360,
+                "url": "https://avcdn.av.by/advertpreview/0001/2560/4935.jpg"
+            },
+            "extrasmall": {
+                "width": 150,
+                "height": 200,
+                "url": "https://avcdn.av.by/advertextrasmall/0001/2560/4936.jpg"
+            }
+        },
+        {
+            "id": 215283972,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1400,
+                "height": 646,
+                "url": "https://avcdn.av.by/advertbig/0002/1528/3973.jpg"
+            },
+            "medium": {
+                "width": 611,
+                "height": 282,
+                "url": "https://avcdn.av.by/advertmedium/0002/1528/3974.jpg"
+            },
+            "small": {
+                "width": 360,
+                "height": 166,
+                "url": "https://avcdn.av.by/advertpreview/0002/1528/3975.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 92,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1528/3976.jpg"
+            }
+        },
+        {
+            "id": 215283967,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1400,
+                "height": 646,
+                "url": "https://avcdn.av.by/advertbig/0002/1528/3968.jpg"
+            },
+            "medium": {
+                "width": 611,
+                "height": 282,
+                "url": "https://avcdn.av.by/advertmedium/0002/1528/3969.jpg"
+            },
+            "small": {
+                "width": 360,
+                "height": 166,
+                "url": "https://avcdn.av.by/advertpreview/0002/1528/3970.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 92,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1528/3971.jpg"
+            }
+        },
+        {
+            "id": 215283987,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1400,
+                "height": 646,
+                "url": "https://avcdn.av.by/advertbig/0002/1528/3988.jpg"
+            },
+            "medium": {
+                "width": 611,
+                "height": 282,
+                "url": "https://avcdn.av.by/advertmedium/0002/1528/3989.jpg"
+            },
+            "small": {
+                "width": 360,
+                "height": 166,
+                "url": "https://avcdn.av.by/advertpreview/0002/1528/3990.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 92,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1528/3991.jpg"
+            }
+        },
+        {
+            "id": 215284022,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1400,
+                "height": 646,
+                "url": "https://avcdn.av.by/advertbig/0002/1528/4023.jpg"
+            },
+            "medium": {
+                "width": 611,
+                "height": 282,
+                "url": "https://avcdn.av.by/advertmedium/0002/1528/4024.jpg"
+            },
+            "small": {
+                "width": 360,
+                "height": 166,
+                "url": "https://avcdn.av.by/advertpreview/0002/1528/4025.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 92,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1528/4026.jpg"
+            }
+        },
+        {
+            "id": 215284347,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1400,
+                "height": 787,
+                "url": "https://avcdn.av.by/advertbig/0002/1528/4348.jpg"
+            },
+            "medium": {
+                "width": 612,
+                "height": 344,
+                "url": "https://avcdn.av.by/advertmedium/0002/1528/4349.jpg"
+            },
+            "small": {
+                "width": 359,
+                "height": 202,
+                "url": "https://avcdn.av.by/advertpreview/0002/1528/4350.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 113,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1528/4351.jpg"
+            }
+        },
+        {
+            "id": 215284462,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1400,
+                "height": 787,
+                "url": "https://avcdn.av.by/advertbig/0002/1528/4463.jpg"
+            },
+            "medium": {
+                "width": 612,
+                "height": 344,
+                "url": "https://avcdn.av.by/advertmedium/0002/1528/4464.jpg"
+            },
+            "small": {
+                "width": 359,
+                "height": 202,
+                "url": "https://avcdn.av.by/advertpreview/0002/1528/4465.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 113,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1528/4466.jpg"
+            }
+        },
+        {
+            "id": 215284497,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1400,
+                "height": 787,
+                "url": "https://avcdn.av.by/advertbig/0002/1528/4498.jpg"
+            },
+            "medium": {
+                "width": 612,
+                "height": 344,
+                "url": "https://avcdn.av.by/advertmedium/0002/1528/4499.jpg"
+            },
+            "small": {
+                "width": 359,
+                "height": 202,
+                "url": "https://avcdn.av.by/advertpreview/0002/1528/4500.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 113,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1528/4501.jpg"
+            }
+        },
+        {
+            "id": 215284252,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1400,
+                "height": 787,
+                "url": "https://avcdn.av.by/advertbig/0002/1528/4253.jpg"
+            },
+            "medium": {
+                "width": 612,
+                "height": 344,
+                "url": "https://avcdn.av.by/advertmedium/0002/1528/4254.jpg"
+            },
+            "small": {
+                "width": 359,
+                "height": 202,
+                "url": "https://avcdn.av.by/advertpreview/0002/1528/4255.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 113,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1528/4256.jpg"
+            }
+        },
+        {
+            "id": 215284467,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 787,
+                "height": 1400,
+                "url": "https://avcdn.av.by/advertbig/0002/1528/4468.jpg"
+            },
+            "medium": {
+                "width": 344,
+                "height": 612,
+                "url": "https://avcdn.av.by/advertmedium/0002/1528/4469.jpg"
+            },
+            "small": {
+                "width": 202,
+                "height": 359,
+                "url": "https://avcdn.av.by/advertpreview/0002/1528/4470.jpg"
+            },
+            "extrasmall": {
+                "width": 113,
+                "height": 200,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1528/4471.jpg"
+            }
+        },
+        {
+            "id": 215284447,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1400,
+                "height": 787,
+                "url": "https://avcdn.av.by/advertbig/0002/1528/4448.jpg"
+            },
+            "medium": {
+                "width": 612,
+                "height": 344,
+                "url": "https://avcdn.av.by/advertmedium/0002/1528/4449.jpg"
+            },
+            "small": {
+                "width": 359,
+                "height": 202,
+                "url": "https://avcdn.av.by/advertpreview/0002/1528/4450.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 113,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1528/4451.jpg"
+            }
+        },
+        {
+            "id": 215283892,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 720,
+                "height": 1280,
+                "url": "https://avcdn.av.by/advertbig/0002/1528/3893.jpg"
+            },
+            "medium": {
+                "width": 344,
+                "height": 612,
+                "url": "https://avcdn.av.by/advertmedium/0002/1528/3894.jpg"
+            },
+            "small": {
+                "width": 202,
+                "height": 359,
+                "url": "https://avcdn.av.by/advertpreview/0002/1528/3895.jpg"
+            },
+            "extrasmall": {
+                "width": 113,
+                "height": 200,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1528/3896.jpg"
+            }
+        },
+        {
+            "id": 215284317,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 787,
+                "height": 1400,
+                "url": "https://avcdn.av.by/advertbig/0002/1528/4318.jpg"
+            },
+            "medium": {
+                "width": 344,
+                "height": 612,
+                "url": "https://avcdn.av.by/advertmedium/0002/1528/4319.jpg"
+            },
+            "small": {
+                "width": 202,
+                "height": 359,
+                "url": "https://avcdn.av.by/advertpreview/0002/1528/4320.jpg"
+            },
+            "extrasmall": {
+                "width": 113,
+                "height": 200,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1528/4321.jpg"
+            }
+        },
+        {
+            "id": 215284342,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1400,
+                "height": 787,
+                "url": "https://avcdn.av.by/advertbig/0002/1528/4343.jpg"
+            },
+            "medium": {
+                "width": 612,
+                "height": 344,
+                "url": "https://avcdn.av.by/advertmedium/0002/1528/4344.jpg"
+            },
+            "small": {
+                "width": 359,
+                "height": 202,
+                "url": "https://avcdn.av.by/advertpreview/0002/1528/4345.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 113,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1528/4346.jpg"
+            }
+        },
+        {
+            "id": 215284487,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1400,
+                "height": 787,
+                "url": "https://avcdn.av.by/advertbig/0002/1528/4488.jpg"
+            },
+            "medium": {
+                "width": 612,
+                "height": 344,
+                "url": "https://avcdn.av.by/advertmedium/0002/1528/4489.jpg"
+            },
+            "small": {
+                "width": 359,
+                "height": 202,
+                "url": "https://avcdn.av.by/advertpreview/0002/1528/4490.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 113,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1528/4491.jpg"
+            }
+        },
+        {
+            "id": 215284492,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1400,
+                "height": 787,
+                "url": "https://avcdn.av.by/advertbig/0002/1528/4493.jpg"
+            },
+            "medium": {
+                "width": 612,
+                "height": 344,
+                "url": "https://avcdn.av.by/advertmedium/0002/1528/4494.jpg"
+            },
+            "small": {
+                "width": 359,
+                "height": 202,
+                "url": "https://avcdn.av.by/advertpreview/0002/1528/4495.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 113,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1528/4496.jpg"
+            }
+        },
+        {
+            "id": 216441822,
+            "main": false,
+            "mimeType": "image/jpeg",
+            "big": {
+                "width": 1400,
+                "height": 787,
+                "url": "https://avcdn.av.by/advertbig/0002/1644/1823.jpg"
+            },
+            "medium": {
+                "width": 612,
+                "height": 344,
+                "url": "https://avcdn.av.by/advertmedium/0002/1644/1824.jpg"
+            },
+            "small": {
+                "width": 359,
+                "height": 202,
+                "url": "https://avcdn.av.by/advertpreview/0002/1644/1825.jpg"
+            },
+            "extrasmall": {
+                "width": 200,
+                "height": 113,
+                "url": "https://avcdn.av.by/advertextrasmall/0002/1644/1826.jpg"
+            }
+        }
+    ],
+    "sellerName": "\u041a\u0438\u0440\u0438\u043b\u043b ",
+    "questionAllowed": true,
+    "locationName": "\u041c\u0438\u043d\u0441\u043a",
+    "shortLocationName": "\u041c\u0438\u043d\u0441\u043a",
+    "properties": [
+        {
+            "fallbackType": "string",
+            "value": "BMW",
+            "id": 2,
+            "name": "brand"
+        },
+        {
+            "fallbackType": "string",
+            "value": "3 \u0441\u0435\u0440\u0438\u044f",
+            "id": 3,
+            "name": "model"
+        },
+        {
+            "fallbackType": "string",
+            "value": "E30",
+            "id": 4,
+            "name": "generation"
+        },
+        {
+            "fallbackType": "string",
+            "value": "1990",
+            "id": 6,
+            "name": "year"
+        },
+        {
+            "fallbackType": "string",
+            "value": "2.0",
+            "id": 13,
+            "name": "engine_capacity"
+        },
+        {
+            "fallbackType": "string",
+            "value": "\u0431\u0435\u043d\u0437\u0438\u043d",
+            "id": 14,
+            "name": "engine_type"
+        },
+        {
+            "fallbackType": "string",
+            "value": "\u043c\u0435\u0445\u0430\u043d\u0438\u043a\u0430",
+            "id": 7,
+            "name": "transmission_type"
+        },
+        {
+            "fallbackType": "string",
+            "value": "E30 (1982 - 1994)",
+            "id": 5,
+            "name": "generation_with_years"
+        },
+        {
+            "fallbackType": "boolean",
+            "value": true,
+            "id": 53,
+            "name": "alloy_wheels"
+        },
+        {
+            "fallbackType": "string",
+            "value": "\u0442\u0451\u043c\u043d\u044b\u0439",
+            "id": 20,
+            "name": "interior_color"
+        },
+        {
+            "fallbackType": "string",
+            "value": "\u043d\u0430\u0442\u0443\u0440\u0430\u043b\u044c\u043d\u0430\u044f \u043a\u043e\u0436\u0430",
+            "id": 21,
+            "name": "interior_material"
+        },
+        {
+            "fallbackType": "boolean",
+            "value": true,
+            "id": 51,
+            "name": "front_glass_lift"
+        },
+        {
+            "fallbackType": "string",
+            "value": "\u0441\u0435\u0434\u0430\u043d",
+            "id": 16,
+            "name": "body_type"
+        },
+        {
+            "fallbackType": "string",
+            "value": "\u0437\u0430\u0434\u043d\u0438\u0439 \u043f\u0440\u0438\u0432\u043e\u0434",
+            "id": 17,
+            "name": "drive_type"
+        },
+        {
+            "fallbackType": "string",
+            "value": "\u0441\u0438\u043d\u0438\u0439",
+            "id": 18,
+            "name": "color"
+        },
+        {
+            "fallbackType": "string",
+            "value": "\u0441\u043d\u044f\u0442 \u0441 \u0443\u0447\u0451\u0442\u0430",
+            "id": 22,
+            "name": "registration_country"
+        },
+        {
+            "fallbackType": "int",
+            "value": 123589,
+            "id": 12,
+            "name": "mileage_km"
+        },
+        {
+            "fallbackType": "string",
+            "value": "\u0441 \u043f\u0440\u043e\u0431\u0435\u0433\u043e\u043c",
+            "id": 15,
+            "name": "condition"
+        },
+        {
+            "fallbackType": "int",
+            "value": 1999,
+            "id": 11,
+            "name": "price_amount_usd"
+        }
+    ],
+    "publicUrl": "https://cars.av.by/bmw/3-seriya/100477640",
+    "year": 1990,
+    "metadata": {
+        "condition": {
+            "id": 2,
+            "label": "\u0441 \u043f\u0440\u043e\u0431\u0435\u0433\u043e\u043c"
+        },
+        "brandId": 8,
+        "brandSlug": "bmw",
+        "modelId": 5863,
+        "modelSlug": "3-seriya",
+        "generationId": 4425,
+        "year": 1990
+    },
+    "foreignIp": false
+}

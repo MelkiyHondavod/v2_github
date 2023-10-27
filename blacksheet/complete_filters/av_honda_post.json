@@ -1,0 +1,861 @@
+{
+    "properties": [
+        {
+            "fallbackType": "compound_any",
+            "valueFormat": "array",
+            "value": [
+                [
+                    {
+                        "fallbackType": "boolean",
+                        "valueFormat": "value",
+                        "id": 5,
+                        "name": "exclude",
+                        "disabled": false,
+                        "options": [],
+                        "visible": true,
+                        "metadata": {
+                            "saved_filter_title_property": true,
+                            "saved_filter_label": "Кроме"
+                        }
+                    },
+                    {
+                        "fallbackType": "select",
+                        "valueFormat": "value",
+                        "value": {
+                            "id": 383,
+                            "label": "Honda",
+                            "intValue": 383
+                        },
+                        "id": 2,
+                        "name": "brand",
+                        "disabled": false,
+                        "options": [
+                            {
+                                "id": 10297,
+                                "label": "Abarth",
+                                "intValue": 10297
+                            },
+                            {
+                                "id": 1444,
+                                "label": "Acura",
+                                "intValue": 1444
+                            },
+                            {
+                                "id": 1,
+                                "label": "Alfa Romeo",
+                                "intValue": 1
+                            },
+                            {
+                                "id": 5940,
+                                "label": "Alpina",
+                                "intValue": 5940
+                            },
+                            {
+                                "id": 6,
+                                "label": "Audi",
+                                "intValue": 6
+                            },
+                            {
+                                "id": 10346,
+                                "label": "Avatr",
+                                "intValue": 10346
+                            },
+                            {
+                                "id": 10337,
+                                "label": "Baojun",
+                                "intValue": 10337
+                            },
+                            {
+                                "id": 1676,
+                                "label": "Bentley",
+                                "intValue": 1676
+                            },
+                            {
+                                "id": 8,
+                                "label": "BMW",
+                                "intValue": 8
+                            },
+                            {
+                                "id": 2210,
+                                "label": "Brilliance",
+                                "intValue": 2210
+                            },
+                            {
+                                "id": 1506,
+                                "label": "Buick",
+                                "intValue": 1506
+                            },
+                            {
+                                "id": 5459,
+                                "label": "BYD",
+                                "intValue": 5459
+                            },
+                            {
+                                "id": 40,
+                                "label": "Cadillac",
+                                "intValue": 40
+                            },
+                            {
+                                "id": 2632,
+                                "label": "Changan",
+                                "intValue": 2632
+                            },
+                            {
+                                "id": 1998,
+                                "label": "Chery",
+                                "intValue": 1998
+                            },
+                            {
+                                "id": 41,
+                                "label": "Chevrolet",
+                                "intValue": 41
+                            },
+                            {
+                                "id": 42,
+                                "label": "Chrysler",
+                                "intValue": 42
+                            },
+                            {
+                                "id": 43,
+                                "label": "Citroen",
+                                "intValue": 43
+                            },
+                            {
+                                "id": 1841,
+                                "label": "Dacia",
+                                "intValue": 1841
+                            },
+                            {
+                                "id": 46,
+                                "label": "Daewoo",
+                                "intValue": 46
+                            },
+                            {
+                                "id": 47,
+                                "label": "Daihatsu",
+                                "intValue": 47
+                            },
+                            {
+                                "id": 2578,
+                                "label": "Datsun",
+                                "intValue": 2578
+                            },
+                            {
+                                "id": 10287,
+                                "label": "Denza",
+                                "intValue": 10287
+                            },
+                            {
+                                "id": 5109,
+                                "label": "Derways",
+                                "intValue": 5109
+                            },
+                            {
+                                "id": 45,
+                                "label": "Dodge",
+                                "intValue": 45
+                            },
+                            {
+                                "id": 5780,
+                                "label": "Dongfeng",
+                                "intValue": 5780
+                            },
+                            {
+                                "id": 10106,
+                                "label": "Dongfeng Honda",
+                                "intValue": 10106
+                            },
+                            {
+                                "id": 10303,
+                                "label": "EXEED",
+                                "intValue": 10303
+                            },
+                            {
+                                "id": 2465,
+                                "label": "FAW",
+                                "intValue": 2465
+                            },
+                            {
+                                "id": 288,
+                                "label": "Ferrari",
+                                "intValue": 288
+                            },
+                            {
+                                "id": 301,
+                                "label": "Fiat",
+                                "intValue": 301
+                            },
+                            {
+                                "id": 330,
+                                "label": "Ford",
+                                "intValue": 330
+                            },
+                            {
+                                "id": 10131,
+                                "label": "GAC",
+                                "intValue": 10131
+                            },
+                            {
+                                "id": 2012,
+                                "label": "Geely",
+                                "intValue": 2012
+                            },
+                            {
+                                "id": 10006,
+                                "label": "Genesis",
+                                "intValue": 10006
+                            },
+                            {
+                                "id": 372,
+                                "label": "GMC",
+                                "intValue": 372
+                            },
+                            {
+                                "id": 1726,
+                                "label": "Great Wall",
+                                "intValue": 1726
+                            },
+                            {
+                                "id": 2215,
+                                "label": "Hafei",
+                                "intValue": 2215
+                            },
+                            {
+                                "id": 5782,
+                                "label": "Haval",
+                                "intValue": 5782
+                            },
+                            {
+                                "id": 10279,
+                                "label": "HiPhi",
+                                "intValue": 10279
+                            },
+                            {
+                                "id": 383,
+                                "label": "Honda",
+                                "intValue": 383
+                            },
+                            {
+                                "id": 10275,
+                                "label": "Hongqi",
+                                "intValue": 10275
+                            },
+                            {
+                                "id": 2681,
+                                "label": "Hongxing",
+                                "intValue": 2681
+                            },
+                            {
+                                "id": 10259,
+                                "label": "Hozon",
+                                "intValue": 10259
+                            },
+                            {
+                                "id": 1498,
+                                "label": "Hummer",
+                                "intValue": 1498
+                            },
+                            {
+                                "id": 10326,
+                                "label": "Hycan",
+                                "intValue": 10326
+                            },
+                            {
+                                "id": 433,
+                                "label": "Hyundai",
+                                "intValue": 433
+                            },
+                            {
+                                "id": 1343,
+                                "label": "Infiniti",
+                                "intValue": 1343
+                            },
+                            {
+                                "id": 2022,
+                                "label": "Iran Khodro",
+                                "intValue": 2022
+                            },
+                            {
+                                "id": 461,
+                                "label": "Isuzu",
+                                "intValue": 461
+                            },
+                            {
+                                "id": 2030,
+                                "label": "JAC",
+                                "intValue": 2030
+                            },
+                            {
+                                "id": 526,
+                                "label": "Jaguar",
+                                "intValue": 526
+                            },
+                            {
+                                "id": 540,
+                                "label": "Jeep",
+                                "intValue": 540
+                            },
+                            {
+                                "id": 10362,
+                                "label": "Jetour",
+                                "intValue": 10362
+                            },
+                            {
+                                "id": 10238,
+                                "label": "Kandi",
+                                "intValue": 10238
+                            },
+                            {
+                                "id": 545,
+                                "label": "Kia",
+                                "intValue": 545
+                            },
+                            {
+                                "id": 1279,
+                                "label": "Lada (ВАЗ)",
+                                "intValue": 1279
+                            },
+                            {
+                                "id": 2437,
+                                "label": "Lamborghini",
+                                "intValue": 2437
+                            },
+                            {
+                                "id": 572,
+                                "label": "Lancia",
+                                "intValue": 572
+                            },
+                            {
+                                "id": 584,
+                                "label": "Land Rover",
+                                "intValue": 584
+                            },
+                            {
+                                "id": 10268,
+                                "label": "Leapmotor",
+                                "intValue": 10268
+                            },
+                            {
+                                "id": 589,
+                                "label": "Lexus",
+                                "intValue": 589
+                            },
+                            {
+                                "id": 2586,
+                                "label": "Lifan",
+                                "intValue": 2586
+                            },
+                            {
+                                "id": 601,
+                                "label": "Lincoln",
+                                "intValue": 601
+                            },
+                            {
+                                "id": 10209,
+                                "label": "LiXiang",
+                                "intValue": 10209
+                            },
+                            {
+                                "id": 1625,
+                                "label": "Maserati",
+                                "intValue": 1625
+                            },
+                            {
+                                "id": 634,
+                                "label": "Mazda",
+                                "intValue": 634
+                            },
+                            {
+                                "id": 683,
+                                "label": "Mercedes-Benz",
+                                "intValue": 683
+                            },
+                            {
+                                "id": 825,
+                                "label": "Mercury",
+                                "intValue": 825
+                            },
+                            {
+                                "id": 1906,
+                                "label": "MG",
+                                "intValue": 1906
+                            },
+                            {
+                                "id": 1850,
+                                "label": "MINI",
+                                "intValue": 1850
+                            },
+                            {
+                                "id": 834,
+                                "label": "Mitsubishi",
+                                "intValue": 834
+                            },
+                            {
+                                "id": 892,
+                                "label": "Nissan",
+                                "intValue": 892
+                            },
+                            {
+                                "id": 1364,
+                                "label": "Oldsmobile",
+                                "intValue": 1364
+                            },
+                            {
+                                "id": 966,
+                                "label": "Opel",
+                                "intValue": 966
+                            },
+                            {
+                                "id": 989,
+                                "label": "Peugeot",
+                                "intValue": 989
+                            },
+                            {
+                                "id": 1012,
+                                "label": "Plymouth",
+                                "intValue": 1012
+                            },
+                            {
+                                "id": 10042,
+                                "label": "Polestar",
+                                "intValue": 10042
+                            },
+                            {
+                                "id": 1022,
+                                "label": "Pontiac",
+                                "intValue": 1022
+                            },
+                            {
+                                "id": 1485,
+                                "label": "Porsche",
+                                "intValue": 1485
+                            },
+                            {
+                                "id": 1609,
+                                "label": "Proton",
+                                "intValue": 1609
+                            },
+                            {
+                                "id": 10226,
+                                "label": "RAM",
+                                "intValue": 10226
+                            },
+                            {
+                                "id": 5503,
+                                "label": "Ravon",
+                                "intValue": 5503
+                            },
+                            {
+                                "id": 1039,
+                                "label": "Renault",
+                                "intValue": 1039
+                            },
+                            {
+                                "id": 10100,
+                                "label": "Renault Samsung",
+                                "intValue": 10100
+                            },
+                            {
+                                "id": 1067,
+                                "label": "Rover",
+                                "intValue": 1067
+                            },
+                            {
+                                "id": 1085,
+                                "label": "Saab",
+                                "intValue": 1085
+                            },
+                            {
+                                "id": 1703,
+                                "label": "Saturn",
+                                "intValue": 1703
+                            },
+                            {
+                                "id": 2698,
+                                "label": "Scion",
+                                "intValue": 2698
+                            },
+                            {
+                                "id": 1091,
+                                "label": "SEAT",
+                                "intValue": 1091
+                            },
+                            {
+                                "id": 10289,
+                                "label": "Seres",
+                                "intValue": 10289
+                            },
+                            {
+                                "id": 1126,
+                                "label": "Skoda",
+                                "intValue": 1126
+                            },
+                            {
+                                "id": 10308,
+                                "label": "Skywell",
+                                "intValue": 10308
+                            },
+                            {
+                                "id": 2449,
+                                "label": "Smart",
+                                "intValue": 2449
+                            },
+                            {
+                                "id": 10350,
+                                "label": "SRM",
+                                "intValue": 10350
+                            },
+                            {
+                                "id": 1597,
+                                "label": "SsangYong",
+                                "intValue": 1597
+                            },
+                            {
+                                "id": 1136,
+                                "label": "Subaru",
+                                "intValue": 1136
+                            },
+                            {
+                                "id": 1155,
+                                "label": "Suzuki",
+                                "intValue": 1155
+                            },
+                            {
+                                "id": 2521,
+                                "label": "Tesla",
+                                "intValue": 2521
+                            },
+                            {
+                                "id": 1181,
+                                "label": "Toyota",
+                                "intValue": 1181
+                            },
+                            {
+                                "id": 5080,
+                                "label": "Trabant",
+                                "intValue": 5080
+                            },
+                            {
+                                "id": 1216,
+                                "label": "Volkswagen",
+                                "intValue": 1216
+                            },
+                            {
+                                "id": 1238,
+                                "label": "Volvo",
+                                "intValue": 1238
+                            },
+                            {
+                                "id": 5437,
+                                "label": "Vortex",
+                                "intValue": 5437
+                            },
+                            {
+                                "id": 10244,
+                                "label": "Voyah",
+                                "intValue": 10244
+                            },
+                            {
+                                "id": 1857,
+                                "label": "Wartburg",
+                                "intValue": 1857
+                            },
+                            {
+                                "id": 10067,
+                                "label": "Weltmeister",
+                                "intValue": 10067
+                            },
+                            {
+                                "id": 6019,
+                                "label": "Xpeng",
+                                "intValue": 6019
+                            },
+                            {
+                                "id": 10185,
+                                "label": "Zeekr",
+                                "intValue": 10185
+                            },
+                            {
+                                "id": 2510,
+                                "label": "Zotye",
+                                "intValue": 2510
+                            },
+                            {
+                                "id": 5066,
+                                "label": "ZX",
+                                "intValue": 5066
+                            },
+                            {
+                                "id": 5076,
+                                "label": "Богдан",
+                                "intValue": 5076
+                            },
+                            {
+                                "id": 1310,
+                                "label": "ГАЗ",
+                                "intValue": 1310
+                            },
+                            {
+                                "id": 10094,
+                                "label": "ЕрАЗ",
+                                "intValue": 10094
+                            },
+                            {
+                                "id": 1551,
+                                "label": "ЗАЗ",
+                                "intValue": 1551
+                            },
+                            {
+                                "id": 2894,
+                                "label": "ИЖ",
+                                "intValue": 2894
+                            },
+                            {
+                                "id": 2345,
+                                "label": "ЛуАЗ",
+                                "intValue": 2345
+                            },
+                            {
+                                "id": 2051,
+                                "label": "Москвич",
+                                "intValue": 2051
+                            },
+                            {
+                                "id": 5252,
+                                "label": "РАФ",
+                                "intValue": 5252
+                            },
+                            {
+                                "id": 5032,
+                                "label": "ТагАЗ",
+                                "intValue": 5032
+                            },
+                            {
+                                "id": 1464,
+                                "label": "УАЗ",
+                                "intValue": 1464
+                            },
+                            {
+                                "id": 5019,
+                                "label": "Эксклюзив",
+                                "intValue": 5019
+                            }
+                        ],
+                        "visible": true,
+                        "metadata": {
+                            "saved_filter_title_property": true
+                        }
+                    },
+                    {
+                        "fallbackType": "select",
+                        "valueFormat": "value",
+                        "id": 3,
+                        "name": "model",
+                        "disabled": false,
+                        "options": [
+                            {
+                                "id": 384,
+                                "label": "Accord",
+                                "intValue": 384
+                            },
+                            {
+                                "id": 390,
+                                "label": "City",
+                                "intValue": 390
+                            },
+                            {
+                                "id": 391,
+                                "label": "Civic",
+                                "intValue": 391
+                            },
+                            {
+                                "id": 6003,
+                                "label": "Clarity",
+                                "intValue": 6003
+                            },
+                            {
+                                "id": 392,
+                                "label": "Concerto",
+                                "intValue": 392
+                            },
+                            {
+                                "id": 393,
+                                "label": "CR-V",
+                                "intValue": 393
+                            },
+                            {
+                                "id": 394,
+                                "label": "CR-X",
+                                "intValue": 394
+                            },
+                            {
+                                "id": 2313,
+                                "label": "CR-Z",
+                                "intValue": 2313
+                            },
+                            {
+                                "id": 2500,
+                                "label": "Crosstour",
+                                "intValue": 2500
+                            },
+                            {
+                                "id": 398,
+                                "label": "Element",
+                                "intValue": 398
+                            },
+                            {
+                                "id": 10176,
+                                "label": "Elysion",
+                                "intValue": 10176
+                            },
+                            {
+                                "id": 10284,
+                                "label": "eNP1",
+                                "intValue": 10284
+                            },
+                            {
+                                "id": 10255,
+                                "label": "eNS1",
+                                "intValue": 10255
+                            },
+                            {
+                                "id": 399,
+                                "label": "Fit",
+                                "intValue": 399
+                            },
+                            {
+                                "id": 2050,
+                                "label": "FR-V",
+                                "intValue": 2050
+                            },
+                            {
+                                "id": 401,
+                                "label": "HR-V",
+                                "intValue": 401
+                            },
+                            {
+                                "id": 402,
+                                "label": "Insight",
+                                "intValue": 402
+                            },
+                            {
+                                "id": 405,
+                                "label": "Jazz",
+                                "intValue": 405
+                            },
+                            {
+                                "id": 407,
+                                "label": "Legend",
+                                "intValue": 407
+                            },
+                            {
+                                "id": 409,
+                                "label": "Logo",
+                                "intValue": 409
+                            },
+                            {
+                                "id": 413,
+                                "label": "Odyssey",
+                                "intValue": 413
+                            },
+                            {
+                                "id": 417,
+                                "label": "Pilot",
+                                "intValue": 417
+                            },
+                            {
+                                "id": 418,
+                                "label": "Prelude",
+                                "intValue": 418
+                            },
+                            {
+                                "id": 2044,
+                                "label": "Ridgeline",
+                                "intValue": 2044
+                            },
+                            {
+                                "id": 423,
+                                "label": "Shuttle",
+                                "intValue": 423
+                            },
+                            {
+                                "id": 427,
+                                "label": "Stream",
+                                "intValue": 427
+                            }
+                        ],
+                        "visible": true,
+                        "metadata": {
+                            "saved_filter_title_property": true
+                        }
+                    },
+                    {
+                        "fallbackType": "select",
+                        "valueFormat": "value",
+                        "id": 4,
+                        "name": "generation",
+                        "disabled": true,
+                        "options": [],
+                        "visible": true,
+                        "metadata": {
+                            "saved_filter_title_property": true
+                        }
+                    }
+                ]
+            ],
+            "id": 6,
+            "name": "brands",
+            "disabled": false,
+            "options": [],
+            "visible": true,
+            "metadata": {
+                "saved_filter_title_property": true
+            }
+        }
+    ],
+    "count": 1214,
+    "sorting": [
+        {
+            "id": 1,
+            "label": "актуальные"
+        },
+        {
+            "id": 2,
+            "label": "дешёвые"
+        },
+        {
+            "id": 3,
+            "label": "дорогие"
+        },
+        {
+            "id": 4,
+            "label": "новые объявления"
+        },
+        {
+            "id": 5,
+            "label": "старые объявления"
+        },
+        {
+            "id": 8,
+            "label": "с наименьшим пробегом"
+        },
+        {
+            "id": 6,
+            "label": "новые по году"
+        },
+        {
+            "id": 7,
+            "label": "старые по году"
+        }
+    ],
+    "initialValue": "brands[0][brand]=383&price_currency=2",
+    "extended": [],
+    "seo": {
+        "canonicalPage": {
+            "url": "https://cars.av.by/honda"
+        },
+        "currentPage": {
+            "url": "https://cars.av.by/honda"
+        }
+    }
+}

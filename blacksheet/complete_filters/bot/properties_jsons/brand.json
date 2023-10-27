@@ -1,0 +1,22 @@
+{
+    "fallbackType": "compound_any",
+    "valueFormat": "array",
+    "value": [
+        "..."
+    ],
+    "id": 6,
+    "name": "brands",
+    "nested": [
+        "..."
+    ],
+    "label": "",
+    "disabled": false,
+    "options": [],
+    "constraints": [],
+    "visible": true,
+    "metadata": {
+        "saved_filter_title_property": true
+    },
+    "hasRelations": false,
+    "widget": "filter_model"
+}

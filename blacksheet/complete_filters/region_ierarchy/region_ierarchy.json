@@ -1,0 +1,749 @@
+[
+    {
+        "name": "brest",
+        "label": "Брестская обл.",
+        "id": 1001,
+        "cities": [
+            {
+                "name": "brest",
+                "label": "Брест",
+                "id": 8
+            },
+            {
+                "name": "baranovichi",
+                "label": "Барановичи",
+                "id": 116
+            },
+            {
+                "name": "beloozyorsk",
+                "label": "Белоозёрск",
+                "id": 796
+            },
+            {
+                "name": "bereza",
+                "label": "Береза",
+                "id": 117
+            },
+            {
+                "name": "vysokoe",
+                "label": "Высокое",
+                "id": 797
+            },
+            {
+                "name": "gancevichi",
+                "label": "Ганцевичи",
+                "id": 118
+            },
+            {
+                "name": "david-gorodok",
+                "label": "Давид-Городок",
+                "id": 790
+            },
+            {
+                "name": "drogichin",
+                "label": "Дрогичин",
+                "id": 119
+            },
+            {
+                "name": "zhabinka",
+                "label": "Жабинка",
+                "id": 120
+            },
+            {
+                "name": "ivanovo",
+                "label": "Иваново",
+                "id": 121
+            },
+            {
+                "name": "ivacevichi",
+                "label": "Ивацевичи",
+                "id": 122
+            },
+            {
+                "name": "kamenec",
+                "label": "Каменец",
+                "id": 123
+            },
+            {
+                "name": "kobrin",
+                "label": "Кобрин",
+                "id": 124
+            },
+            {
+                "name": "kossovo",
+                "label": "Коссово",
+                "id": 798
+            },
+            {
+                "name": "luninec",
+                "label": "Лунинец",
+                "id": 125
+            },
+            {
+                "name": "lyahovichi",
+                "label": "Ляховичи",
+                "id": 126
+            },
+            {
+                "name": "malorita",
+                "label": "Малорита",
+                "id": 127
+            },
+            {
+                "name": "mikashevichi",
+                "label": "Микашевичи",
+                "id": 789
+            },
+            {
+                "name": "pinsk",
+                "label": "Пинск",
+                "id": 128
+            },
+            {
+                "name": "pruzhany",
+                "label": "Пружаны",
+                "id": 129
+            },
+            {
+                "name": "stolin",
+                "label": "Столин",
+                "id": 130
+            }
+        ]
+    },
+    {
+        "name": "vitebsk",
+        "label": "Витебская обл.",
+        "id": 1002,
+        "cities": [
+            {
+                "name": "vitebsk",
+                "label": "Витебск",
+                "id": 7
+            },
+            {
+                "name": "baran",
+                "label": "Барань",
+                "id": 792
+            },
+            {
+                "name": "beshenkovichi",
+                "label": "Бешенковичи",
+                "id": 131
+            },
+            {
+                "name": "braslav",
+                "label": "Браслав",
+                "id": 132
+            },
+            {
+                "name": "verhnedvinsk",
+                "label": "Верхнедвинск",
+                "id": 133
+            },
+            {
+                "name": "glubokoe",
+                "label": "Глубокое",
+                "id": 134
+            },
+            {
+                "name": "gorodok",
+                "label": "Городок",
+                "id": 135
+            },
+            {
+                "name": "disna",
+                "label": "Дисна",
+                "id": 793
+            },
+            {
+                "name": "dokshicy",
+                "label": "Докшицы",
+                "id": 136
+            },
+            {
+                "name": "dubrovno",
+                "label": "Дубровно",
+                "id": 137
+            },
+            {
+                "name": "lepel",
+                "label": "Лепель",
+                "id": 138
+            },
+            {
+                "name": "liozno",
+                "label": "Лиозно",
+                "id": 139
+            },
+            {
+                "name": "miory",
+                "label": "Миоры",
+                "id": 140
+            },
+            {
+                "name": "novolukoml",
+                "label": "Новолукомль",
+                "id": 791
+            },
+            {
+                "name": "novopolock",
+                "label": "Новополоцк",
+                "id": 141
+            },
+            {
+                "name": "orsha",
+                "label": "Орша",
+                "id": 142
+            },
+            {
+                "name": "polock",
+                "label": "Полоцк",
+                "id": 143
+            },
+            {
+                "name": "postavy",
+                "label": "Поставы",
+                "id": 144
+            },
+            {
+                "name": "rossony",
+                "label": "Россоны",
+                "id": 145
+            },
+            {
+                "name": "senno",
+                "label": "Сенно",
+                "id": 146
+            },
+            {
+                "name": "tolochin",
+                "label": "Толочин",
+                "id": 147
+            },
+            {
+                "name": "ushachi",
+                "label": "Ушачи",
+                "id": 148
+            },
+            {
+                "name": "chashniki",
+                "label": "Чашники",
+                "id": 149
+            },
+            {
+                "name": "sharkovshchina",
+                "label": "Шарковщина",
+                "id": 150
+            },
+            {
+                "name": "shumilino",
+                "label": "Шумилино",
+                "id": 151
+            }
+        ]
+    },
+    {
+        "name": "gomel",
+        "label": "Гомельская обл.",
+        "id": 1003,
+        "cities": [
+            {
+                "name": "gomel",
+                "label": "Гомель",
+                "id": 9
+            },
+            {
+                "name": "bragin",
+                "label": "Брагин",
+                "id": 152
+            },
+            {
+                "name": "buda-koshelevo",
+                "label": "Буда-Кошелево",
+                "id": 153
+            },
+            {
+                "name": "vasilevichi",
+                "label": "Василевичи",
+                "id": 794
+            },
+            {
+                "name": "vetka",
+                "label": "Ветка",
+                "id": 154
+            },
+            {
+                "name": "dobrush",
+                "label": "Добруш",
+                "id": 155
+            },
+            {
+                "name": "elsk",
+                "label": "Ельск",
+                "id": 156
+            },
+            {
+                "name": "zhitkovichi",
+                "label": "Житковичи",
+                "id": 157
+            },
+            {
+                "name": "zhlobin",
+                "label": "Жлобин",
+                "id": 158
+            },
+            {
+                "name": "kalinkovichi",
+                "label": "Калинковичи",
+                "id": 159
+            },
+            {
+                "name": "korma",
+                "label": "Корма",
+                "id": 161
+            },
+            {
+                "name": "lelchicy",
+                "label": "Лельчицы",
+                "id": 162
+            },
+            {
+                "name": "loev",
+                "label": "Лоев",
+                "id": 163
+            },
+            {
+                "name": "mozyr",
+                "label": "Мозырь",
+                "id": 164
+            },
+            {
+                "name": "narovlya",
+                "label": "Наровля",
+                "id": 165
+            },
+            {
+                "name": "oktyabrskij",
+                "label": "Октябрьский",
+                "id": 166
+            },
+            {
+                "name": "petrikov",
+                "label": "Петриков",
+                "id": 167
+            },
+            {
+                "name": "rechica",
+                "label": "Речица",
+                "id": 168
+            },
+            {
+                "name": "rogachev",
+                "label": "Рогачев",
+                "id": 169
+            },
+            {
+                "name": "svetlogorsk",
+                "label": "Светлогорск",
+                "id": 170
+            },
+            {
+                "name": "sosnovyj-bor",
+                "label": "Сосновый Бор",
+                "id": 803
+            },
+            {
+                "name": "turov",
+                "label": "Туров",
+                "id": 795
+            },
+            {
+                "name": "hojniki",
+                "label": "Хойники",
+                "id": 172
+            },
+            {
+                "name": "chechersk",
+                "label": "Чечерск",
+                "id": 171
+            }
+        ]
+    },
+    {
+        "name": "grodno",
+        "label": "Гродненская обл.",
+        "id": 1004,
+        "cities": [
+            {
+                "name": "grodno",
+                "label": "Гродно",
+                "id": 3
+            },
+            {
+                "name": "beryozovka",
+                "label": "Берёзовка",
+                "id": 800
+            },
+            {
+                "name": "bolshaya-berestovica",
+                "label": "Большая Берестовица",
+                "id": 173
+            },
+            {
+                "name": "volkovysk",
+                "label": "Волковыск",
+                "id": 174
+            },
+            {
+                "name": "voronovo",
+                "label": "Вороново",
+                "id": 175
+            },
+            {
+                "name": "dyatlovo",
+                "label": "Дятлово",
+                "id": 176
+            },
+            {
+                "name": "zelva",
+                "label": "Зельва",
+                "id": 177
+            },
+            {
+                "name": "ive",
+                "label": "Ивье",
+                "id": 178
+            },
+            {
+                "name": "korelichi",
+                "label": "Кореличи",
+                "id": 179
+            },
+            {
+                "name": "lida",
+                "label": "Лида",
+                "id": 180
+            },
+            {
+                "name": "mosty",
+                "label": "Мосты",
+                "id": 181
+            },
+            {
+                "name": "novogrudok",
+                "label": "Новогрудок",
+                "id": 182
+            },
+            {
+                "name": "ostrovec",
+                "label": "Островец",
+                "id": 183
+            },
+            {
+                "name": "oshmyany",
+                "label": "Ошмяны",
+                "id": 184
+            },
+            {
+                "name": "ross",
+                "label": "Россь",
+                "id": 806
+            },
+            {
+                "name": "svisloch",
+                "label": "Свислочь",
+                "id": 185
+            },
+            {
+                "name": "skidel",
+                "label": "Скидель",
+                "id": 799
+            },
+            {
+                "name": "slonim",
+                "label": "Слоним",
+                "id": 186
+            },
+            {
+                "name": "smorgon",
+                "label": "Сморгонь",
+                "id": 187
+            },
+            {
+                "name": "shchuchin",
+                "label": "Щучин",
+                "id": 188
+            }
+        ]
+    },
+    {
+        "name": "minsk",
+        "label": "Минская обл.",
+        "id": 1005,
+        "cities": [
+            {
+                "name": "minsk",
+                "label": "Минск",
+                "id": 2
+            },
+            {
+                "name": "berezino",
+                "label": "Березино",
+                "id": 92
+            },
+            {
+                "name": "borisov",
+                "label": "Борисов",
+                "id": 93
+            },
+            {
+                "name": "vilejka",
+                "label": "Вилейка",
+                "id": 94
+            },
+            {
+                "name": "volozhin",
+                "label": "Воложин",
+                "id": 95
+            },
+            {
+                "name": "dzerzhinsk",
+                "label": "Дзержинск",
+                "id": 96
+            },
+            {
+                "name": "zhodino",
+                "label": "Жодино",
+                "id": 97
+            },
+            {
+                "name": "zaslavl",
+                "label": "Заславль",
+                "id": 98
+            },
+            {
+                "name": "kleck",
+                "label": "Клецк",
+                "id": 99
+            },
+            {
+                "name": "kopyl",
+                "label": "Копыль",
+                "id": 100
+            },
+            {
+                "name": "krupki",
+                "label": "Крупки",
+                "id": 101
+            },
+            {
+                "name": "logojsk",
+                "label": "Логойск",
+                "id": 102
+            },
+            {
+                "name": "lyuban",
+                "label": "Любань",
+                "id": 103
+            },
+            {
+                "name": "marina-gorka",
+                "label": "Марьина Горка",
+                "id": 104
+            },
+            {
+                "name": "mihanovichi",
+                "label": "Михановичи",
+                "id": 804
+            },
+            {
+                "name": "molodechno",
+                "label": "Молодечно",
+                "id": 105
+            },
+            {
+                "name": "myadel",
+                "label": "Мядель",
+                "id": 106
+            },
+            {
+                "name": "nesvizh",
+                "label": "Несвиж",
+                "id": 107
+            },
+            {
+                "name": "priluki",
+                "label": "Прилуки",
+                "id": 805
+            },
+            {
+                "name": "puhovichi",
+                "label": "Пуховичи",
+                "id": 108
+            },
+            {
+                "name": "rakov",
+                "label": "Раков",
+                "id": 788
+            },
+            {
+                "name": "rudensk",
+                "label": "Руденск",
+                "id": 248
+            },
+            {
+                "name": "sluck",
+                "label": "Слуцк",
+                "id": 109
+            },
+            {
+                "name": "smolevichi",
+                "label": "Смолевичи",
+                "id": 110
+            },
+            {
+                "name": "soligorsk",
+                "label": "Солигорск",
+                "id": 111
+            },
+            {
+                "name": "starye-dorogi",
+                "label": "Старые Дороги",
+                "id": 112
+            },
+            {
+                "name": "stolbcy",
+                "label": "Столбцы",
+                "id": 113
+            },
+            {
+                "name": "uzda",
+                "label": "Узда",
+                "id": 114
+            },
+            {
+                "name": "fanipol",
+                "label": "Фаниполь",
+                "id": 160
+            },
+            {
+                "name": "cherven",
+                "label": "Червень",
+                "id": 115
+            }
+        ]
+    },
+    {
+        "name": "mogilev",
+        "label": "Могилевская обл.",
+        "id": 1006,
+        "cities": [
+            {
+                "name": "mogilev",
+                "label": "Могилев",
+                "id": 6
+            },
+            {
+                "name": "belynichi",
+                "label": "Белыничи",
+                "id": 189
+            },
+            {
+                "name": "bobrujsk",
+                "label": "Бобруйск",
+                "id": 190
+            },
+            {
+                "name": "byhov",
+                "label": "Быхов",
+                "id": 191
+            },
+            {
+                "name": "glusk",
+                "label": "Глуск",
+                "id": 192
+            },
+            {
+                "name": "gorki",
+                "label": "Горки",
+                "id": 193
+            },
+            {
+                "name": "dribin",
+                "label": "Дрибин",
+                "id": 194
+            },
+            {
+                "name": "kirovsk",
+                "label": "Кировск",
+                "id": 195
+            },
+            {
+                "name": "klimovichi",
+                "label": "Климовичи",
+                "id": 196
+            },
+            {
+                "name": "klichev",
+                "label": "Кличев",
+                "id": 197
+            },
+            {
+                "name": "kostyukovichi",
+                "label": "Костюковичи",
+                "id": 198
+            },
+            {
+                "name": "krasnopole",
+                "label": "Краснополье",
+                "id": 199
+            },
+            {
+                "name": "krichev",
+                "label": "Кричев",
+                "id": 200
+            },
+            {
+                "name": "krugloe",
+                "label": "Круглое",
+                "id": 201
+            },
+            {
+                "name": "mstislavl",
+                "label": "Мстиславль",
+                "id": 202
+            },
+            {
+                "name": "osipovichi",
+                "label": "Осиповичи",
+                "id": 203
+            },
+            {
+                "name": "slavgorod",
+                "label": "Славгород",
+                "id": 204
+            },
+            {
+                "name": "hotimsk",
+                "label": "Хотимск",
+                "id": 205
+            },
+            {
+                "name": "chausy",
+                "label": "Чаусы",
+                "id": 206
+            },
+            {
+                "name": "cherikov",
+                "label": "Чериков",
+                "id": 207
+            },
+            {
+                "name": "shklov",
+                "label": "Шклов",
+                "id": 208
+            }
+        ]
+    }
+]

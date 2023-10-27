@@ -1,0 +1,17 @@
+{
+    "fallbackType": "compound_any",
+    "valueFormat": "value",
+    "id": 11,
+    "name": "price_compound_on_filter_form",
+    "nested": [
+        "..."
+    ],
+    "label": "Цена",
+    "disabled": false,
+    "options": [],
+    "constraints": [],
+    "visible": true,
+    "metadata": [],
+    "hasRelations": false,
+    "widget": "price_compound"
+}

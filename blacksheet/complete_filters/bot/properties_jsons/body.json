@@ -1,0 +1,16 @@
+{
+    "fallbackType": "select",
+    "valueFormat": "array",
+    "id": 14,
+    "name": "body_type",
+    "nested": [],
+    "label": "Кузов",
+    "disabled": false,
+    "options": [
+        "..."
+    ],
+    "constraints": [],
+    "visible": true,
+    "metadata": [],
+    "hasRelations": false
+}

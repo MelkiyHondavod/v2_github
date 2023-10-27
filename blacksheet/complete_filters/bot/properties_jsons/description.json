@@ -1,0 +1,18 @@
+{
+    "fallbackType": "string",
+    "valueFormat": "value",
+    "id": 35,
+    "name": "description",
+    "nested": [],
+    "label": "Поиск по словам в описании к объявлению",
+    "hint": "Например, «техосмотр» или «снята с учёта»",
+    "disabled": false,
+    "options": [],
+    "constraints": [
+        "..."
+    ],
+    "visible": true,
+    "metadata": [],
+    "hasRelations": false,
+    "widget": "description_search"
+}
