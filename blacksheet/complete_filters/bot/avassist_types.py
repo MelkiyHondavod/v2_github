@@ -1,4 +1,4 @@
-"""class User():
+class User():
 
     def __init__( self, tg_usr, lang="en" ):
         self.id = tg_usr.id
@@ -157,66 +157,13 @@
         }
         self.search_cards = {} # "<id>":<search_card>  id - "<chat_id>.<message_id( если удаление сообщений не ведёт к обнулению )>"
 
+    def check_permision(self):
+        return True
 
-subscription_example = {
-    "models":[
-        {
-            "exclude":False,
-            "brand":383,
-            "model":391,
-            "generation":810
-        },
-        {
-            "exclude":True,
-            "brand":1279,
-            "model":5173
-        }
+    def open_new_search_card(self, message_id ):
+
+        if self.check_permision():                                            
+            self.search_cards[ message_id ] = self.SEARCH_CARD_PATTERN
+            return True
         
-    ],
-    "straight_type":{
-        "transmission_type":2
-    },
-    "range_type":{
-        "year":{
-            "min":1950,
-            "max":2023
-        },
-        "price_usd":{
-            "max":100_000
-        }
-    }    
-}        
-
-def compile_init_string( sub ):
-
-    init_str = "https://cars.av.by/filter?"
-
-
-    for c, model in enumerate( sub["models"] ):
-        
-        if model["exclude"]:
-            init_str += f"&brands[{c}][exclude]=1"
-
-        for pair in model.items():
-            if pair[0] != "exclude" :
-                init_str += f"&brands[{c}][{pair[0]}]={pair[1]}" 
-
-
-    for straight_type in sub["straight_type"].items():
-        init_str += f"&{straight_type[0]}={straight_type[1]}"    
-
-
-    for range_type in sub["range_type"].items():
-        for range_pair in range_type[1].items():
-            init_str += f"&{range_type[0]}[{range_pair[0]}]={range_pair[1]}"
-
-
-
-    return init_str            
-
-def main():
-    print( compile_init_string( sub= subscription_example ) )   
-    print('huj')
-
-if __name__ == "__main__" :
-    main()"""
+        return False

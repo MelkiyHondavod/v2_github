@@ -8,7 +8,8 @@ from telebot.apihelper import ApiTelegramException
 from requests.exceptions import ConnectionError, ReadTimeout
 from json_healer import heal
 
-from userClass import User
+#from userClass import User
+import avassist_types 
 from Strings_Data import strings_data as strings
 
 
@@ -24,7 +25,7 @@ class FiltersBot():
         self.starter_text = "выберите желаемое действие в меню"
         self.search_menu_text = "задайте параметры поиска и нажмите \"сохранить\""
         self.users = {
-            "931481755":User( debil(931481755), lang="ru" )
+            "931481755":avassist_types.User( debil(931481755), lang="ru" )
         }
 
     
@@ -144,14 +145,26 @@ class FiltersBot():
         return types.InlineKeyboardButton( text="назад", callback_data= ds ) #callback_data= ds[:-1:] ? 
     
 
-    def starter( self, user_id ):
+    def starter( self, upd, mode= "new" ):
+
+        #user_id = upd.message.chat.id
 
         starter_markup = self.inline_builder( [
             [( "новый поиск", "start.new_search" )]
         ] )
 
-        self.bot.send_message( chat_id=user_id, text= self.starter_text, reply_markup= starter_markup )
-        print( starter_markup.keyboard[0][0] )# FIXME delete
+
+        match mode:
+
+            case "new": 
+
+                user_id = upd.message.chat.id
+                self.bot.send_message( chat_id=user_id, text= self.starter_text, reply_markup= starter_markup )
+
+            case "edit":    
+                # warning: upd.callback_query = None while starter by command(mode="new") which may lead to exception
+                user_id = upd.callback_query.message.chat.id
+                self.bot.edit_message_text( text= self.starter_text, chat_id=user_id, message_id= upd.callback_query.message.id, reply_markup= starter_markup )
 
 
     def menu_navigation( self, upd ) :
@@ -282,7 +295,9 @@ class FiltersBot():
                                             self.bot.edit_message_text( 
                                                 text= f"{try_str(  lang_strings, upd.callback_query.data.split('.')[-1], default=  upd.callback_query.data )}\nchosen year: {upd.callback_query.data.split('.')[8]}" , 
                                                 chat_id=upd.callback_query.message.chat.id, message_id=upd.callback_query.message.message_id, 
-                                                reply_markup= None)               
+                                                reply_markup= None)   
+
+                                            # append card value            
 
 
                                         case _:
@@ -534,9 +549,9 @@ def main():
                             try:
                                 nothing = bot.users[ str( upd.message.chat.id ) ]
                             except KeyError :
-                                bot.users[ str( upd.message.chat.id ) ] = User( tg_usr= upd.message.chat )
+                                bot.users[ str( upd.message.chat.id ) ] = avassist_types.User( tg_usr= upd.message.chat )
 
-                            bot.starter( user_id= upd.message.chat.id )
+                            bot.starter( upd )
 
 
 
@@ -554,6 +569,8 @@ def main():
                 
                 case "callback_query":
                     upd_source = str(upd.callback_query.message.chat.id)
+
+                    #FIXME: dont forget to delete it on release
                     try:
                         bot.bot.answer_callback_query( callback_query_id= upd.callback_query.id, text= upd.callback_query.data,
                                                     show_alert= False
@@ -570,36 +587,25 @@ def main():
                                 match upd.callback_query.data.split('.')[1] :
 
                                     case "new_search":
+                                        #new search to user                                       
 
-                                        bot.menu_navigation( upd )
-                                        
-                                        """
-                                        match len( upd.callback_query.data.split('.') ) :
-                                            case 1 :
-                                                bot.search_menu_2( upd )
-                                                #bot.filter_menu( upd )
+                                        if  bot.users[str( upd.callback_query.message.chat.id )].open_new_search_card( message_id= upd.callback_query.message.id ) is True:
+                                            
+                                            bot.menu_navigation( upd )       
 
-                                            case 2 :
-                                                bot.rows_in_group( upd )
-
-                                            case 3 :
-                                                bot.propertyGroups_in_row( upd )
-
-                                            case 4 :
-                                                bot.properties_in_pG( upd )  
-
-                                            case 5 :
-                                                bot.property_action( upd )   
-                                        """            
+                                        else:
+                                            bot.bot.answer_callback_query( callback_query_id= upd.callback_query.id, text= "Access denied :/ jr idk",
+                                                    show_alert= False
+                                                )      
 
 
                                     case _:
                                         write_log( f"unknown callback: {upd.callback_query.data}" )
                                         bot.bot.send_message( chat_id=upd.callback_query.message.chat.id, text=f"unknown callback: {upd.callback_query.data}" )
 
-                                
+                            # why?    
                             else:
-                                    bot.starter( user_id= upd.callback_query.message.chat.id )   
+                                    bot.starter( upd=upd, mode = "edit" )   
                           
 
 
